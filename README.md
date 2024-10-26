@@ -1,3 +1,5 @@
+CodeSandbox where this was originally coded: https://codesandbox.io/p/sandbox/rvw3sm
+
 # Code Challenge: Payment Transaction Dashboard
 
 ### Estimated time for completion: 30 minutes
