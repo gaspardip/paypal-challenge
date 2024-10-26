@@ -41,7 +41,7 @@ const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 export const fetchTransactions = async () => {
   await sleep(500); // fake delay
 
-  if (Math.random() > 0.5) {
+  if (Math.random() > 0.5) { // change the success rate at will
     throw new Error("Failed to fetch transactions");
   }
 
